@@ -1,0 +1,6 @@
+.env
+.envrc
+cloud_sql_service_account_key.json
+cloud_sql_proxy
+
+/node_modules
